@@ -24,7 +24,8 @@ print("Eigenvalues of the matrix:", eigenvalues)\
 print("Eigenvectors of the matrix:\n", eigenvectors)
 
 ## Output:
-![Screenshot 2025-05-14 122050](https://github.com/user-attachments/assets/37de75d3-a9bb-4fcf-9eb5-9ba27746e1bb)
+![Screenshot 2025-05-14 184651](https://github.com/user-attachments/assets/86869d7a-5429-4b92-8da1-262ffc371590)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
